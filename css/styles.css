@@ -176,6 +176,9 @@ body {
 .footer .site-logo {
   color: #ffffff;
 }
+.addres {
+  font-style: normal;
+}
 
 .list.addres {
   color: var(--wite-color);
