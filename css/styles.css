@@ -157,6 +157,9 @@ body {
 .comando {
   background-color: #f5f4fa;
 }
+.section-list {
+  background-color: var(--wite-color);
+}
 .comando-names {
   font-size: 16px;
   font-weight: 500;
